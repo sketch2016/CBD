@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>resource/application-exit.png</file>
+        <file>resource/connect.png</file>
+        <file>resource/declined.png</file>
+        <file>resource/default.png</file>
+        <file>resource/detector.jpg</file>
+        <file>resource/disconnect.png</file>
+        <file>resource/settings.png</file>
+        <file>resource/logo.jpg</file>
+        <file>resource/logo_deep.jpg</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>

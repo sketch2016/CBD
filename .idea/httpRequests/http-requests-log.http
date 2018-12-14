@@ -1,0 +1,48 @@
+GET http://112.124.22.238:8081/course_api/addr/list?user_id=282392&token=77199997-a06d-42fc-9c08-0dbe05acec74
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-04T080229.200.json
+
+###
+
+GET http://112.124.22.238:8081/course_api/addr/list?user_id=282392
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-04T075540.401.txt
+
+###
+
+GET http://112.124.22.238:8081/course_api/addr/list?user_id=282392&token=77199997-a06d-42fc-9c08-0dbe05acec72
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-04T075426.402.txt
+
+###
+
+GET http://112.124.22.238:8081/course_api/addr/list?user_id=282392&token=77199997-a06d-42fc-9c08-0dbe05acec74
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-04T075336.200.json
+
+###
+
+GET http://112.124.22.238:8081/course_api/addr/list?user_id=282392&token=4c89e083-8be3-4b1e-93f3-2e9531142c28&user_id=282392&token=77199997-a06d-42fc-9c08-0dbe05acec74
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-04T075258.402.txt
+
+###
+
+GET http://112.124.22.238:8081/course_api/addr/list?user_id=282392&token=4c89e083-8be3-4b1e-93f3-2e9531142c28
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-04T074454.200.json
+
+###
+
